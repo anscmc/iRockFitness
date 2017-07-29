@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://irockfitness.getforge.io/</loc>
+  <lastmod>2017-06-25T00:49:12+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://irockfitness.getforge.io/freeclass.html</loc>
+  <lastmod>2017-06-25T00:49:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://irockfitness.getforge.io/index.html</loc>
+  <lastmod>2017-06-25T00:49:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://irockfitness.getforge.io/Pages/bootcamp.html</loc>
+  <lastmod>2017-06-25T00:49:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://irockfitness.getforge.io/Pages/schedule.html</loc>
+  <lastmod>2017-06-25T00:49:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://irockfitness.getforge.io/Pages/classes.html</loc>
+  <lastmod>2017-06-25T00:49:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://irockfitness.getforge.io/Pages/youth.html</loc>
+  <lastmod>2017-06-25T00:49:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://irockfitness.getforge.io/privacypolicy.htm</loc>
+  <lastmod>2017-06-25T00:49:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+</urlset>
